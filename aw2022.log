@@ -1,0 +1,286 @@
+Changed database context to 'master'.
+Msg 33599, Level 16, State 1, Server 4faf418a07da, Line 1
+Valid values of the database compatibility level are 100, 110, 120, 130, 140, or 150.
+Changed database context to 'AdventureWorks2022'.
+Msg 9989, Level 16, State 100, Server 4faf418a07da, Line 2
+Cannot use full-text search in this instance.
+Msg 10347, Level 16, State 1, Server 4faf418a07da, Line 1
+Common Language Runtime(CLR) is not enabled on this instance.
+Msg 208, Level 16, State 1, Server 4faf418a07da, Procedure vEmployee, Line 23
+Invalid object name 'HumanResources.Employee'.
+Msg 208, Level 16, State 1, Server 4faf418a07da, Procedure vEmployeeDepartment, Line 15
+Invalid object name 'HumanResources.Employee'.
+Msg 208, Level 16, State 1, Server 4faf418a07da, Procedure vEmployeeDepartmentHistory, Line 16
+Invalid object name 'HumanResources.Employee'.
+Msg 208, Level 16, State 1, Server 4faf418a07da, Procedure vSalesPerson, Line 28
+Invalid object name 'HumanResources.Employee'.
+Msg 208, Level 16, State 1, Server 4faf418a07da, Procedure vSalesPersonSalesByFiscalYears, Line 24
+Invalid object name 'HumanResources.Employee'.
+Msg 10347, Level 16, State 1, Server 4faf418a07da, Line 1
+Common Language Runtime(CLR) is not enabled on this instance.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 1088, Level 16, State 12, Server 4faf418a07da, Line 2
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 1767, Level 16, State 0, Server 4faf418a07da, Line 1
+Foreign key 'FK_EmployeeDepartmentHistory_Employee_BusinessEntityID' references invalid table 'HumanResources.Employee'.
+Msg 1750, Level 16, State 1, Server 4faf418a07da, Line 1
+Could not create constraint or index. See previous errors.
+Msg 4917, Level 16, State 0, Server 4faf418a07da, Line 1
+Constraint 'FK_EmployeeDepartmentHistory_Employee_BusinessEntityID' does not exist.
+Msg 4916, Level 16, State 0, Server 4faf418a07da, Line 1
+Could not enable or disable the constraint. See previous errors.
+Msg 1767, Level 16, State 0, Server 4faf418a07da, Line 1
+Foreign key 'FK_EmployeePayHistory_Employee_BusinessEntityID' references invalid table 'HumanResources.Employee'.
+Msg 1750, Level 16, State 1, Server 4faf418a07da, Line 1
+Could not create constraint or index. See previous errors.
+Msg 4917, Level 16, State 0, Server 4faf418a07da, Line 1
+Constraint 'FK_EmployeePayHistory_Employee_BusinessEntityID' does not exist.
+Msg 4916, Level 16, State 0, Server 4faf418a07da, Line 1
+Could not enable or disable the constraint. See previous errors.
+Msg 1767, Level 16, State 0, Server 4faf418a07da, Line 1
+Foreign key 'FK_JobCandidate_Employee_BusinessEntityID' references invalid table 'HumanResources.Employee'.
+Msg 1750, Level 16, State 1, Server 4faf418a07da, Line 1
+Could not create constraint or index. See previous errors.
+Msg 4917, Level 16, State 0, Server 4faf418a07da, Line 1
+Constraint 'FK_JobCandidate_Employee_BusinessEntityID' does not exist.
+Msg 4916, Level 16, State 0, Server 4faf418a07da, Line 1
+Could not enable or disable the constraint. See previous errors.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 1767, Level 16, State 0, Server 4faf418a07da, Line 1
+Foreign key 'FK_ProductDocument_Document_DocumentNode' references invalid table 'Production.Document'.
+Msg 1750, Level 16, State 1, Server 4faf418a07da, Line 1
+Could not create constraint or index. See previous errors.
+Msg 4917, Level 16, State 0, Server 4faf418a07da, Line 1
+Constraint 'FK_ProductDocument_Document_DocumentNode' does not exist.
+Msg 4916, Level 16, State 0, Server 4faf418a07da, Line 1
+Could not enable or disable the constraint. See previous errors.
+Msg 1767, Level 16, State 0, Server 4faf418a07da, Line 1
+Foreign key 'FK_PurchaseOrderHeader_Employee_EmployeeID' references invalid table 'HumanResources.Employee'.
+Msg 1750, Level 16, State 1, Server 4faf418a07da, Line 1
+Could not create constraint or index. See previous errors.
+Msg 4917, Level 16, State 0, Server 4faf418a07da, Line 1
+Constraint 'FK_PurchaseOrderHeader_Employee_EmployeeID' does not exist.
+Msg 4916, Level 16, State 0, Server 4faf418a07da, Line 1
+Could not enable or disable the constraint. See previous errors.
+Msg 1767, Level 16, State 0, Server 4faf418a07da, Line 1
+Foreign key 'FK_SalesPerson_Employee_BusinessEntityID' references invalid table 'HumanResources.Employee'.
+Msg 1750, Level 16, State 1, Server 4faf418a07da, Line 1
+Could not create constraint or index. See previous errors.
+Msg 4917, Level 16, State 0, Server 4faf418a07da, Line 1
+Constraint 'FK_SalesPerson_Employee_BusinessEntityID' does not exist.
+Msg 4916, Level 16, State 0, Server 4faf418a07da, Line 1
+Could not enable or disable the constraint. See previous errors.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "HumanResources.Employee" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+Msg 4902, Level 16, State 1, Server 4faf418a07da, Line 1
+Cannot find the object "Production.Document" because it does not exist or you do not have permissions.
+The module 'uspLogError' depends on the missing object 'dbo.uspPrintError'. The module will still be created; however, it cannot run successfully until the object exists.
+Msg 7601, Level 16, State 2, Server 4faf418a07da, Procedure uspSearchCandidateResumes, Line 27
+Cannot use a CONTAINS or FREETEXT predicate on table or indexed view 'HumanResources.JobCandidate' because it is not full-text indexed.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.BusinessEntityID', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.NationalIDNumber', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.LoginID', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.OrganizationNode', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.OrganizationLevel', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.JobTitle', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.BirthDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.MaritalStatus', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.Gender', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.HireDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.SalariedFlag', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.DF_Employee_SalariedFlag', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.VacationHours', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.DF_Employee_VacationHours', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.SickLeaveHours', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.DF_Employee_SickLeaveHours', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.CurrentFlag', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.DF_Employee_CurrentFlag', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.rowguid', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.DF_Employee_rowguid', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.ModifiedDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.DF_Employee_ModifiedDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.PK_Employee_BusinessEntityID', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.AK_Employee_LoginID', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.AK_Employee_NationalIDNumber', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.AK_Employee_rowguid', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.IX_Employee_OrganizationLevel_OrganizationNode', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.IX_Employee_OrganizationNode', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.FK_Employee_Person_BusinessEntityID', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.CK_Employee_BirthDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.CK_Employee_Gender', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.CK_Employee_HireDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.CK_Employee_MaritalStatus', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.CK_Employee_SickLeaveHours', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.Employee.CK_Employee_VacationHours', or the object does not exist.
+Msg 15135, Level 16, State 19, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.EmployeeDepartmentHistory.FK_EmployeeDepartmentHistory_Employee_BusinessEntityID', or the object does not exist.
+Msg 15135, Level 16, State 19, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.EmployeePayHistory.FK_EmployeePayHistory_Employee_BusinessEntityID', or the object does not exist.
+Msg 15135, Level 16, State 19, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.JobCandidate.FK_JobCandidate_Employee_BusinessEntityID', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.DocumentNode', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.DocumentLevel', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.Title', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.Owner', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.FolderFlag', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.FileName', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.FileExtension', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.Revision', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.ChangeNumber', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.DF_Document_ChangeNumber', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.Status', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.DocumentSummary', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.Document', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.rowguid', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.DF_Document_rowguid', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.ModifiedDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.DF_Document_ModifiedDate', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.PK_Document_DocumentNode', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.AK_Document_DocumentLevel_DocumentNode', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.AK_Document_rowguid', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.IX_Document_FileName_Revision', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.FK_Document_Employee_Owner', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.Document.CK_Document_Status', or the object does not exist.
+Msg 15135, Level 16, State 19, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Production.ProductDocument.FK_ProductDocument_Document_DocumentNode', or the object does not exist.
+Msg 15135, Level 16, State 19, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Purchasing.PurchaseOrderHeader.FK_PurchaseOrderHeader_Employee_EmployeeID', or the object does not exist.
+Msg 15135, Level 16, State 19, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Sales.SalesPerson.FK_SalesPerson_Employee_BusinessEntityID', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.vEmployee', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.vEmployeeDepartment', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'HumanResources.vEmployeeDepartmentHistory', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Sales.vSalesPerson', or the object does not exist.
+Msg 15135, Level 16, State 8, Server 4faf418a07da, Procedure sys.sp_addextendedproperty, Line 37
+Object is invalid. Extended properties are not permitted on 'Sales.vSalesPersonSalesByFiscalYears', or the object does not exist.
+Changed database context to 'master'.
